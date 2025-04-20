@@ -7,7 +7,7 @@ fun main() {
     var numbers = arrayOf(1, 2, 3)
 
     // Print first item (index 0)
-    println(numbers[0])  // Output: 1
+    println(numbers[0])
 }
 
 //Array list example

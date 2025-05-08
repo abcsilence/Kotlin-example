@@ -13,6 +13,31 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".RegistrationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_registration"
+            android:theme="@style/Theme.MyApplication" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.MyApplication" />
+        <activity
+            android:name=".MusicStreaming"
+            android:exported="false"
+            android:label="@string/title_activity_music_streaming"
+            android:theme="@style/Theme.MyApplication" />
+        <activity
+            android:name=".Note"
+            android:exported="false"
+            android:label="@string/title_activity_note"
+            android:theme="@style/Theme.MyApplication" />
+        <activity
+            android:name=".Note.kt"
+            android:exported="false"
+            android:label="@string/title_activity_note.kt"
+            android:theme="@style/Theme.MyApplication" />
+        <activity
             android:name=".CardExample"
             android:exported="false"
             android:label="@string/title_activity_card_example"

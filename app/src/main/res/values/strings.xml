@@ -2,4 +2,9 @@
     <string name="app_name">My Application</string>
     <string name="title_activity_profile">ProfileActivity</string>
     <string name="title_activity_card_example">CardExample</string>
+    <string name="title_activity_note.kt">Note.kt</string>
+    <string name="title_activity_note">Note</string>
+    <string name="title_activity_music_streaming">MusicStreaming</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
 </resources>
